@@ -1,0 +1,2 @@
+# SpringCloudPropertiesRepository
+for external configuration
